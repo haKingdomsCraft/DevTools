@@ -3,7 +3,7 @@ main: DevTools\DevTools
 version: 1.13.0
 api: [4.0.0+dev.1224]
 load: STARTUP
-author: PocketMine Team
+author: PocketMine Team.
 description: Helps develop and distribute PocketMine-MP plugins
 website: https://github.com/PocketMine/DevTools
 commands:
